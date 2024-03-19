@@ -1,5 +1,5 @@
 # 328. Odd Even Linked List
-#LinkedList #leedcode 
+#LinkedList #leetcode 
 
 ## 題目描述
 [LeetCode連結](https://leetcode.com/problems/odd-even-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
