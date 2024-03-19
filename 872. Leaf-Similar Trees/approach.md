@@ -1,4 +1,5 @@
-#leetcode
+# 872. Leaf-Similar Trees
+#leetcode #tree
 
 > 題目：872. Leaf-Similar Trees
 > 連結：[Link](https://leetcode.com/problems/leaf-similar-trees/?envType=study-plan-v2&envId=leetcode-75)
