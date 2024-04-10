@@ -4,7 +4,7 @@
 > 難度：`Medium`
 > 分類：[Tree](https://leetcode.com/tag/tree/)[Depth-First Search](https://leetcode.com/tag/depth-first-search/)[Binary Tree](https://leetcode.com/tag/binary-tree/)[Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)
 
-#LinkedList #leetcode
+#BinaryTree #leetcode
 
 # 題目描述
 
