@@ -56,8 +56,7 @@ Initially, you are at the entrance cell [1,2].
 */
 
 var nearestExit = function (maze, entrance) {
-  const WALL = "+",
-    VISITED = "visited";
+  const WALL = "+";
   // initialize a queue for BFS
   const [entranceRow, entranceCol] = entrance;
   const queue = [[entranceRow, entranceCol, 0]]; // Queue will store [row, col, steps
@@ -97,7 +96,7 @@ var nearestExit = function (maze, entrance) {
         inBounds(neighborRow, neighborCol) &&
         maze[neighborRow][neighborCol] !== WALL
       ) {
-        maze[neighborRow][neighborCol] = VISITED;
+        maze[neighborRow][neighborCol] = WALL;
         queue.push([neighborRow, neighborCol, steps + 1]); // Enqueue adjacent cell
       }
     }
