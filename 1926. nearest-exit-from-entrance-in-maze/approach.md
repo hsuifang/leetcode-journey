@@ -1,6 +1,6 @@
-題目：199. nearest-exit-from-entrance-in-maze
+# 題目：1926. nearest-exit-from-entrance-in-maze
 
-> 連結：[Link](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/submissions/?envType=study-plan-v2&envId=leetcode-75)
+> 連結：[Link](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/description/?envType=study-plan-v2&envId=leetcode-75)
 > 難度：`Medium`
 > 分類：[Breadth-First Search](https://leetcode.com/tag/breadth-first-search/)
 
@@ -109,7 +109,5 @@ var nearestExit = function (maze, entrance) {
 
 ## Complexity
 
-**Time complexity: O(M x N)**
-**Space complexity:O(MxN)**
-
-- 紀錄 Queue
+- **Time complexity: O(M x N)**
+- **Space complexity:O(MxN)**
